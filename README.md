@@ -23,11 +23,12 @@ DH110 | Zia Khoshsirat | Week F4
 
 ### Zahra
 
-<img width="5232" alt="Empathy Map - Zahra (2)" src="https://user-images.githubusercontent.com/46515738/138788065-5e4c864a-1e08-4eb7-bda5-6bb9c3542726.png">
+> <img width="5232" alt="Empathy Map - Zahra (2)" src="https://user-images.githubusercontent.com/46515738/138788065-5e4c864a-1e08-4eb7-bda5-6bb9c3542726.png">
 
 
 ### Carmina
 
+> <img width="5232" alt="Empathy Map - Carmina" src="https://user-images.githubusercontent.com/46515738/138789777-158656d6-5b2e-4ac7-8ea6-21c7bd5dfae4.png">
 
 
 # :ledger: User Scenarios
